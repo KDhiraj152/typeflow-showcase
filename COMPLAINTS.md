@@ -1,36 +1,31 @@
-# Feedback and Complaints
+# Feedback and complaints
 
-TypeFlow accepts structured feedback, bug reports, and formal complaints through this repository.
+If something is broken, unfair, or frustrating, report it.
 
-## Submission Channel
+## How to file
 
-- Open a GitHub issue and choose the correct template.
-- Use the Complaint template for service-quality or account-related concerns.
+Open a GitHub issue and include:
 
-## Include the Following
+1. what happened
+2. what you expected
+3. steps to reproduce (if any)
+4. date and timezone
+5. browser and device details
 
-1. clear summary of the problem
-2. observed impact
-3. reproduction steps (if applicable)
-4. expected vs actual behavior
-5. timestamp with timezone
-6. browser/device environment
+## What happens next
 
-## Handling Workflow
+1. We acknowledge the report.
+2. We triage by severity and impact.
+3. We investigate and post updates.
+4. We close with the outcome.
 
-1. acknowledgement and initial triage
-2. severity classification
-3. investigation and evidence review
-4. mitigation or resolution update
-5. closure with documented outcome
+## Severity guide
 
-## Severity Reference
+- Critical: service outage or serious data/security risk
+- High: major flow broken
+- Medium: partial breakage with workaround
+- Low: minor issue or content fix
 
-- Critical: outage, severe service failure, or high-risk incident
-- High: major feature unusable for normal flow
-- Medium: degraded behavior with workaround
-- Low: minor issue, documentation gap, or UX polish
+## Safety note
 
-## Data Safety Requirement
-
-Do not post passwords, tokens, private keys, payment information, or sensitive personal data in public issues.
+Do not post passwords, tokens, keys, or payment data in public issues.
