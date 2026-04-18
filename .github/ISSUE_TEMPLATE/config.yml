@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report request
+    url: https://github.com/KDhiraj152/typeflow-showcase/issues/new?template=complaint.yml
+    about: Request private security contact without posting exploit details publicly

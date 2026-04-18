@@ -27,6 +27,10 @@ This repository helps demonstrate product work publicly while protecting impleme
 - [Features](FEATURES.md)
 - [Website and Product Links](WEBSITE-LINKS.md)
 - [Feedback and Complaints](COMPLAINTS.md)
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Service](TERMS.md)
+- [Support](SUPPORT.md)
+- [Security Policy](SECURITY.md)
 - [Changelog](CHANGELOG.md)
 
 ## Contact
