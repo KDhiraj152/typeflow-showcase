@@ -1,20 +1,14 @@
-# Website and Public Links
+# Website and links
 
-## Live Product
+## Live product
 
-- Production: [typefloww.vercel.app](https://typefloww.vercel.app)
+- [typefloww.vercel.app](https://typefloww.vercel.app)
 
-## Public Repository
+## Source code policy
 
-- Showcase: [github.com/KDhiraj152/typeflow-showcase](https://github.com/KDhiraj152/typeflow-showcase)
+- This repository does not include implementation code.
+- The production codebase is private.
 
-## Source Visibility Policy
+## Public updates
 
-- Implementation source code is private.
-- This repository is documentation-only by design.
-
-## Where Updates Are Published
-
-- release notes: [CHANGELOG.md](CHANGELOG.md)
-- policy updates: [PRIVACY.md](PRIVACY.md) and [TERMS.md](TERMS.md)
-- support process changes: [SUPPORT.md](SUPPORT.md)
+- Product updates are posted in [CHANGELOG.md](CHANGELOG.md).

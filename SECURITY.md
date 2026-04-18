@@ -1,29 +1,31 @@
 # Security Policy
 
-## Scope
+## Supported Scope
 
-This is the public showcase repository for TypeFlow. Core source code is private.
+This repository is a public documentation showcase for TypeFlow.
 
-Security reports should focus on vulnerabilities affecting the live service or public assets.
+Private implementation code is not hosted here.
 
-## Responsible Disclosure
+## Reporting a Vulnerability
 
-If you identify a vulnerability:
+If you discover a security issue affecting TypeFlow:
 
-1. do not publish exploit details publicly
-2. open a minimal issue requesting private security contact
-3. provide high-level impact and affected area only
+1. Do not post exploit details publicly.
+2. Open a minimal issue requesting private security contact.
+3. Include only high-level impact and affected area.
 
-Private follow-up instructions will be provided for sensitive technical details.
+We will provide a private channel for sensitive details.
 
-## Response Workflow
+## Response Process
 
-1. acknowledgement of report
-2. validation and severity assessment
-3. mitigation or remediation planning
-4. deployment and verification
-5. public summary when safe and appropriate
+1. Acknowledgement
+2. Validation and severity assessment
+3. Mitigation or fix planning
+4. Deployment and verification
+5. Public summary when safe
 
-## Good-Faith Research
+## Safe Harbor
 
-Responsible security research is appreciated. Unauthorized access attempts, destructive testing, data exfiltration, and service abuse are prohibited.
+Good-faith security research and responsible disclosure are appreciated.
+
+Unauthorized data access, service abuse, or destructive testing is not permitted.

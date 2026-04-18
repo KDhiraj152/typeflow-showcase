@@ -1,36 +1,35 @@
 # Support
 
-TypeFlow support requests are managed through this repository using issue templates.
+Support requests are handled through this repository.
 
-## Primary Channels
+## Quick Links
 
 - Product website: [typefloww.vercel.app](https://typefloww.vercel.app)
-- Bug reports: GitHub issue template
-- Complaints: [COMPLAINTS.md](COMPLAINTS.md)
-- Security concerns: [SECURITY.md](SECURITY.md)
+- Feedback and complaints process: COMPLAINTS.md
 
-## Recommended Request Content
+## What to include in a support issue
 
-1. short issue summary
-2. expected behavior
-3. actual behavior
-4. timestamp and timezone
-5. browser/device details
-6. reproducible steps (if applicable)
+When opening an issue, include:
 
-## Priority Bands
+1. What happened
+2. What you expected
+3. Time and timezone
+4. Browser/device details
+5. Reproduction steps if available
 
-- P1: service unavailable, severe reliability issue, or critical security risk
-- P2: major product capability impaired
-- P3: moderate issue with workaround available
-- P4: minor defect, UX polish, or information request
+## Severity Guidelines
 
-## Handling Expectations
+- P1: service unavailable or critical failure
+- P2: major feature broken
+- P3: degraded behavior with workaround
+- P4: minor issue or enhancement request
 
-- requests are triaged based on impact and reproducibility
-- higher-severity incidents are prioritized
-- status updates are posted in the issue thread when possible
+## Response Expectations
 
-## Sensitive Information Rule
+- Triage acknowledgement: as soon as possible
+- Critical issues: prioritized first
+- Resolution updates: posted in issue thread
 
-Never include passwords, access tokens, private keys, or personal financial data in public issues.
+## Security-Sensitive Reports
+
+For security reports, follow SECURITY.md and avoid posting exploit details publicly.

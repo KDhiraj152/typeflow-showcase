@@ -2,41 +2,45 @@
 
 Last updated: 2026-04-19
 
-TypeFlow operates as a web service. This document explains the high-level handling of user and operational data.
+This is a high-level privacy summary for the TypeFlow service.
 
-## Data We May Process
+## Data we may collect
 
-- account-related identifiers required for authentication and account access
-- gameplay/session telemetry needed to deliver product functionality
-- technical diagnostics used for reliability, abuse prevention, and service monitoring
+To run the product, we may process:
 
-## Purpose of Processing
+- account identifiers used for authentication
+- gameplay/session telemetry required for product features
+- basic technical diagnostics for performance and reliability
 
-Data is processed to:
+## How we use data
 
-- operate and maintain the service
-- improve product quality and performance
-- detect abuse, fraud, and security incidents
-- satisfy legal and operational obligations
+We use data to:
 
-## Data Sharing
+- provide and operate the TypeFlow service
+- improve product quality and reliability
+- investigate abuse, security issues, and operational incidents
+
+## Data sharing
 
 TypeFlow does not sell personal data.
 
-Data may be processed by infrastructure providers strictly for hosting, observability, and service operations.
+Data may be processed by infrastructure providers that help run the service.
 
-## Retention
+## Data retention
 
-Data is retained only for as long as reasonably necessary for product operations, security requirements, and legal compliance.
+Operational and account data is retained only as long as needed for service delivery, legal obligations, and security needs.
 
-## Security Posture
+## Security
 
-Reasonable technical and organizational safeguards are applied. No internet-based system can guarantee absolute security.
+Reasonable technical and organizational controls are used to protect service data.
+No internet system is perfectly secure.
 
-## Privacy Requests
+## Privacy requests
 
-Open an issue requesting private follow-up for privacy matters. Do not include sensitive personal information in public issues.
+Open an issue and request private follow-up for privacy matters.
 
-## Policy Changes
+Do not post sensitive personal information in public issues.
 
-This policy may change as the service evolves. The effective date above reflects the latest published version.
+## Updates
+
+This policy may change over time. Updates are reflected by the date above.

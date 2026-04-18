@@ -1,30 +1,20 @@
 # About TypeFlow
 
-TypeFlow is a performance-focused typing platform built for users who want more than a basic typing test.
+TypeFlow started from a simple idea: typing practice should feel like a real game, not a boring timer.
 
-It combines practice, competition, and measurable progression in a web-first experience.
+It is built around two things people actually care about when they train:
 
-## Mission
+- getting faster without losing accuracy
+- seeing progress in a way that feels honest
 
-- make typing improvement measurable and engaging
-- deliver low-friction competitive sessions
-- maintain a reliable and responsive real-time experience
+## How it is run
 
-## Product Principles
+- Public website for users
+- Private repository for source code
+- Managed deployment for day-to-day operations
 
-- clarity over complexity in user flow
-- fairness in competitive scoring and outcomes
-- consistency in metrics and session reporting
-- continuous quality improvements through iterative releases
+## Who it is for
 
-## Delivery Model
-
-- publicly accessible web application
-- private implementation repository
-- managed deployment and operations
-
-## Intended Users
-
-- learners improving typing speed and accuracy
-- professionals building consistency under time pressure
-- competitive users who value rankings and progression
+- Learners building typing speed
+- Professionals who want more consistency
+- Competitive users who enjoy rankings and match play
