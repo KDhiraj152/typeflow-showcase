@@ -2,43 +2,41 @@
 
 Last updated: 2026-04-19
 
-This repository is a public showcase for the TypeFlow product. The source code is private.
+TypeFlow operates as a web service. This document explains the high-level handling of user and operational data.
 
-## Data Collection
+## Data We May Process
 
-TypeFlow may collect limited operational data required to run the web service, including:
+- account-related identifiers required for authentication and account access
+- gameplay/session telemetry needed to deliver product functionality
+- technical diagnostics used for reliability, abuse prevention, and service monitoring
 
-- account identifiers used for authentication
-- gameplay/session telemetry required for product features
-- basic technical diagnostics for performance and reliability
+## Purpose of Processing
 
-## How Data Is Used
+Data is processed to:
 
-Data is used to:
-
-- provide and operate the TypeFlow service
-- improve product quality and reliability
-- investigate abuse, security issues, and operational incidents
+- operate and maintain the service
+- improve product quality and performance
+- detect abuse, fraud, and security incidents
+- satisfy legal and operational obligations
 
 ## Data Sharing
 
 TypeFlow does not sell personal data.
-Data may be shared with infrastructure providers strictly for service operation.
 
-## Data Retention
+Data may be processed by infrastructure providers strictly for hosting, observability, and service operations.
 
-Operational and account data is retained only as long as needed for service delivery, legal obligations, and security needs.
+## Retention
 
-## Security
+Data is retained only for as long as reasonably necessary for product operations, security requirements, and legal compliance.
 
-Reasonable technical and organizational controls are used to protect service data.
-No method of transmission or storage is guaranteed 100% secure.
+## Security Posture
 
-## Your Requests
+Reasonable technical and organizational safeguards are applied. No internet-based system can guarantee absolute security.
 
-For privacy requests, open a private contact request via repository issue and ask for secure contact follow-up.
-Do not post sensitive personal information in public issues.
+## Privacy Requests
 
-## Updates
+Open an issue requesting private follow-up for privacy matters. Do not include sensitive personal information in public issues.
 
-This policy may be updated periodically. Material changes will be reflected by updating the date above.
+## Policy Changes
+
+This policy may change as the service evolves. The effective date above reflects the latest published version.

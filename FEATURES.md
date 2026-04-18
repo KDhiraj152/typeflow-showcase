@@ -1,24 +1,25 @@
 # Feature Highlights
 
-## Core Experience
+## Performance Training
 
-- Timed typing sessions
-- Accuracy and WPM metrics
-- Session summaries and performance insights
+- timed typing sessions for repeatable practice
+- live WPM and accuracy tracking
+- end-of-session summaries for self-review
 
-## Multiplayer Experience
+## Competitive Multiplayer
 
-- Live typing competition
-- Match progression updates
-- Competitive scoring model
+- real-time head-to-head typing flow
+- live progression updates during matches
+- ranking-oriented outcome model
 
-## Platform Qualities
+## Progress and Insights
 
-- Web-first application delivery
-- Responsive interface behavior
-- Scalable architecture for real-time sessions
+- track consistency alongside raw speed
+- compare short-term performance trends
+- use session outcomes to guide focused improvement
 
-## Product Commitments
+## Product Quality Targets
 
-- Ongoing quality and performance improvements
-- Clear release communication through changelog updates
+- responsive interaction under normal web conditions
+- stable session tracking and result reporting
+- iterative feature and reliability improvements over time

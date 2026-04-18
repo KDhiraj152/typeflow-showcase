@@ -2,48 +2,45 @@
 
 Last updated: 2026-04-19
 
-These Terms govern access to and use of the TypeFlow web service.
+These Terms govern access to and use of the TypeFlow service.
 
 ## Acceptance
 
-By using TypeFlow, you agree to these Terms.
-If you do not agree, do not use the service.
+By using TypeFlow, you agree to these Terms. If you do not agree, stop using the service.
 
-## Service Availability
+## Service Nature
 
-TypeFlow is provided on an "as available" basis.
-Features may change, be improved, suspended, or removed.
+TypeFlow is provided as an online service. Features may be modified, added, suspended, or removed to improve quality, safety, or reliability.
 
 ## Acceptable Use
 
-You agree not to:
+You must not:
 
-- abuse, disrupt, or degrade the service
-- attempt unauthorized access to systems or accounts
-- exploit bugs or automation to manipulate rankings or outcomes
-- submit malicious content or credentials in public channels
+- interfere with service availability or normal operation
+- attempt unauthorized access to systems, data, or accounts
+- exploit automation, vulnerabilities, or abuse patterns to manipulate outcomes
+- submit malicious payloads, credentials, or harmful material
 
-## Accounts
+## Account Responsibility
 
-You are responsible for your account activity and credential safety.
+You are responsible for safeguarding your credentials and for activity performed under your account.
 
 ## Intellectual Property
 
-All product branding, design, and implementation are owned by the project owner unless otherwise stated.
-The public showcase repository does not grant rights to private source code.
+Product branding, assets, and implementation are owned by the project owner unless explicitly stated otherwise. Public documentation does not grant rights to private source code.
 
 ## Disclaimer
 
-TypeFlow is provided without warranties of any kind to the extent allowed by applicable law.
+The service is provided "as is" and "as available" to the extent permitted by applicable law.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, TypeFlow is not liable for indirect or consequential damages arising from use of the service.
+To the maximum extent permitted by law, TypeFlow is not liable for indirect, incidental, or consequential damages related to service use.
 
-## Contact and Complaints
+## Complaints and Support
 
-Use the process described in COMPLAINTS.md for support and formal complaint handling.
+Support and complaint procedures are documented in [SUPPORT.md](SUPPORT.md) and [COMPLAINTS.md](COMPLAINTS.md).
 
-## Changes
+## Revisions
 
-These Terms may be updated. Continued use after updates constitutes acceptance of revised Terms.
+These Terms may be updated. Continued service use after updates constitutes acceptance of the revised Terms.

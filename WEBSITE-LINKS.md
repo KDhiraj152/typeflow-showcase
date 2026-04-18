@@ -1,14 +1,20 @@
-# Website and Links
+# Website and Public Links
 
 ## Live Product
 
-- Production URL: https://typefloww.vercel.app
+- Production: [typefloww.vercel.app](https://typefloww.vercel.app)
 
-## Source Code Policy
+## Public Repository
 
-- This public repository does not include implementation code.
-- Core source is intentionally private.
+- Showcase: [github.com/KDhiraj152/typeflow-showcase](https://github.com/KDhiraj152/typeflow-showcase)
 
-## Public Updates
+## Source Visibility Policy
 
-- Feature and product updates are shared through repository documentation and changelog entries.
+- Implementation source code is private.
+- This repository is documentation-only by design.
+
+## Where Updates Are Published
+
+- release notes: [CHANGELOG.md](CHANGELOG.md)
+- policy updates: [PRIVACY.md](PRIVACY.md) and [TERMS.md](TERMS.md)
+- support process changes: [SUPPORT.md](SUPPORT.md)

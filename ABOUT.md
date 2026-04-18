@@ -1,22 +1,30 @@
 # About TypeFlow
 
-TypeFlow is built as a competitive typing platform where users can improve typing performance through solo and multiplayer experiences.
+TypeFlow is a performance-focused typing platform built for users who want more than a basic typing test.
 
-## Product Direction
+It combines practice, competition, and measurable progression in a web-first experience.
 
-- Deliver fast, responsive typing gameplay
-- Provide measurable progress signals
-- Support competitive user engagement
-- Operate as a web service with production-grade reliability
+## Mission
+
+- make typing improvement measurable and engaging
+- deliver low-friction competitive sessions
+- maintain a reliable and responsive real-time experience
+
+## Product Principles
+
+- clarity over complexity in user flow
+- fairness in competitive scoring and outcomes
+- consistency in metrics and session reporting
+- continuous quality improvements through iterative releases
 
 ## Delivery Model
 
-- Public-facing website for product access
-- Private source repository for secure development
-- Managed service deployment for frontend and backend operations
+- publicly accessible web application
+- private implementation repository
+- managed deployment and operations
 
-## Audience
+## Intended Users
 
-- Students and learners improving typing speed
-- Professionals training for consistency and accuracy
-- Competitive users interested in ranked progression
+- learners improving typing speed and accuracy
+- professionals building consistency under time pressure
+- competitive users who value rankings and progression
